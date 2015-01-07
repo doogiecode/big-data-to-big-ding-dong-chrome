@@ -1,7 +1,7 @@
 Big Data → Big Ding Dong (Chrome)
 =============
 
-Since its coining, the phrase big data has been twisted, bent, and coaxed into meaning almost anything, particularly by those looking for profits in step 3. So, why not one more unintended meaning? 
+Since its coining, the phrase big data has been twisted, bent, and coaxed into meaning almost anything, particularly by those looking for profits in step 3. So, why not one more unintended connotation? 
 
 This Google Chrome extension replaces occurrences of "big data" on web pages with "big ding dong".
 
