@@ -7,14 +7,17 @@ This Google Chrome extension replaces occurrences of "big data" on web pages wit
 
 This extension is a modification of Steven Frank's work on [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), an extension which works quite nicely alongside this one.
 
-[TRY IT OUT HERE](https://www.google.com/search?q=big+data+in+the+cloud)
-
 Installation
 ------------
 
 [DOWNLOAD HERE](https://github.com/doogiecode/big-data-to-big-ding-dong-chrome/blob/master/BigDataToBigDingDong.crx?raw=true) (crx file)
 
 In Chrome, choose Window > Extensions.  Drag BigDataToBigDingDong.crx into the page that appears.
+
+Test Drive
+----------
+
+[Here.](https://www.google.com/search?q=big+data+in+the+cloud)
 
 
 Safari Version
