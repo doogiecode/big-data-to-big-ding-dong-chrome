@@ -1,18 +1,18 @@
-Big Data -> Big Ding Dong (Chrome)
+Big Data → Big Ding Dong (Chrome)
 =============
 
-The phrase big data has been twisted, warped, and coaxed into meaning almost anything. What's one more loaded meaning?
+Since its coining, the phrase big data has been twisted, bent, and coaxed into meaning almost anything, particularly by those looking for profits in step 3. So, why not one more unintended meaning? 
 
-This Google Chrome extension replaces occurrences of 'big data' on web pages with 'big ding dong'.
+This Google Chrome extension replaces occurrences of "big data" on web pages with "big ding dong".
 
-[DOWNLOAD HERE](https://github.com/doogiedoogie/big-data-to-big-ding-dong-chrome/blob/master/BigDataToBigDingDong.crx?raw=true) (crx file)
-
-This extension is a modification of Steven Frank's work on [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), an extension which works nicely alongside this one.
+This extension is a modification of Steven Frank's work on [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), an extension which works quite nicely alongside this one.
 
 [TRY IT OUT HERE](https://www.google.com/search?q=big+data+in+the+cloud)
 
 Installation
 ------------
+
+[DOWNLOAD HERE](https://github.com/doogiecode/big-data-to-big-ding-dong-chrome/blob/master/BigDataToBigDingDong.crx?raw=true) (crx file)
 
 In Chrome, choose Window > Extensions.  Drag BigDataToBigDingDong.crx into the page that appears.
 
@@ -20,4 +20,4 @@ In Chrome, choose Window > Extensions.  Drag BigDataToBigDingDong.crx into the p
 Safari Version
 --------------
 
-Is here: https://github.com/doogiedoogie/big-data-to-big-ding-dong-safari
+[It's right here.](https://github.com/doogiecode/big-data-to-big-ding-dong-safari)
